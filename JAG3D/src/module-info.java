@@ -42,4 +42,5 @@ module org.applied_geodesy.jag3d {
 	requires transitive javafx.controls;
 	requires transitive javafx.graphics;
 	requires transitive javafx.swing;
+	requires org.json;
 }
